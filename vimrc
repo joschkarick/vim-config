@@ -1,8 +1,11 @@
-call pathogen#infect()
+execute pathogen#infect()
 syntax on
 filetype plugin indent on
-set expandtab
+set number
+set tabstop=4
 set shiftwidth=4
 set softtabstop=4
-set number
-let g:flake8_max_line_length=90
+set smarttab
+set expandtab
+let g:flake8_ignore="E501,W293"
+colorscheme railscasts
