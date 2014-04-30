@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/joschka/amr_ws/src/amr_SS14/amr_bugs/src/amr_bugs'
+let g:netrw_dirhist_2='/home/joschka/amr_ws/src/amr_SS14/amr_bugs'
+let g:netrw_dirhist_3='/home/joschka/amr_ws/src/amr_SS14/amr_bugs/src'
+let g:netrw_dirhist_4='/home/joschka/amr_ws/src/amr_SS14/amr_bugs'
+let g:netrw_dirhist_5='/home/joschka/amr_ws/src/amr_SS14'
+let g:netrw_dirhist_6='/home/joschka/amr_ws/src'
+let g:netrw_dirhist_7='/home/joschka/amr_ws/src/amr_SS14'
+let g:netrw_dirhist_8='/home/joschka/amr_ws/src/amr_SS14/amr_bugs'
+let g:netrw_dirhist_9='/home/joschka/amr_ws/src/amr_SS14/amr_bugs/src'
