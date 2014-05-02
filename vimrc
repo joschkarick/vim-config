@@ -17,3 +17,6 @@ endif
 
 set foldmethod=indent
 set foldlevel=99
+
+map <F8> <ESC>:w !python<Enter>
+map <C-n> <ESC>:NERDTree<Enter>
