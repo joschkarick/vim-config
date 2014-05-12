@@ -28,3 +28,9 @@
 [submodule "bundle/SWTC.vim"]
 	path = bundle/SWTC.vim
 	url = git@github.com:shinokada/SWTC.vim.git
+[submodule "bundle/vim-ipython"]
+	path = bundle/vim-ipython
+	url = git@github.com:ivanov/vim-ipython.git
+[submodule "bundle/conque-shell"]
+	path = bundle/conque-shell
+	url = git@github.com:vim-scripts/Conque-Shell.git
