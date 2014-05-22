@@ -4,9 +4,6 @@
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = git://github.com/tpope/vim-sensible.git
-[submodule "bundle/vim-powerline"]
-	path = bundle/vim-powerline
-	url = git@github.com:Lokaltog/vim-powerline.git
 [submodule "bundle/jedi-vim"]
 	path = bundle/jedi-vim
 	url = git@github.com:davidhalter/jedi-vim.git
@@ -25,15 +22,9 @@
 [submodule "bundle/vim-matrix-screensaver"]
 	path = bundle/vim-matrix-screensaver
 	url = git@github.com:uguu-org/vim-matrix-screensaver.git
-[submodule "bundle/SWTC.vim"]
-	path = bundle/SWTC.vim
-	url = git@github.com:shinokada/SWTC.vim.git
-[submodule "bundle/vim-ipython"]
-	path = bundle/vim-ipython
-	url = git@github.com:ivanov/vim-ipython.git
-[submodule "bundle/conque-shell"]
-	path = bundle/conque-shell
-	url = git@github.com:vim-scripts/Conque-Shell.git
 [submodule "bundle/powerline"]
 	path = bundle/powerline
 	url = git@github.com:Lokaltog/powerline.git
+[submodule "/home/jrick/.vim/bundle/vim-easymotion"]
+	path = /home/jrick/.vim/bundle/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion

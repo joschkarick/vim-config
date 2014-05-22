@@ -39,6 +39,7 @@ imap <C-s> <esc>:w<CR>
 nmap <C-c> :q
 imap <C-c> <esc>
 vmap <C-c> <esc>
+map <F8> <ESC>:w !python<Enter>
 
 " Shortcuts for leader
 map <Leader>m <esc>:tabnext<CR>
