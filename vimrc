@@ -52,3 +52,6 @@ set statusline+=%{fugitive#statusline()}
 
 " Set tab width for c++ to 2
 autocmd FileType cpp setlocal shiftwidth=2 tabstop=2
+
+" Powerline
+set rtp+=~/.vim/bundle/powerline/powerline/bindings/vim
